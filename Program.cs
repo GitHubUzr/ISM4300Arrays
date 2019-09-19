@@ -2,7 +2,7 @@
  * This C# Console application code is meant to
  * execute an array that is of the size 25 elements
  * and display each element number in a loop.
- * It displays the element numbers in a
+ * It also displays the element numbers in a
  * two-dimensional array.
  */
 
